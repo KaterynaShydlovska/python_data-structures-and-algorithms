@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
-#### [Code Challenges](https://github.com/KaterynaShydlovska/python_data-structures-and-algorithms
+#### [Code Challenges](https://github.com/KaterynaShydlovska/python_data-structures-and-algorithms)
+
    * [array-reverse](https://github.com/KaterynaShydlovska/python_data-structures-and-algorithms/blob/array-reverse/array_reverse/array_reverse.py)
    * [assets](https://github.com/KaterynaShydlovska/python_data-structures-and-algorithms/blob/array-reverse/assets/array-reverse.jpg)
