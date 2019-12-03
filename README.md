@@ -12,6 +12,7 @@
 
    * [assets](https://github.com/KaterynaShydlovska/python_data-structures-and-algorithms/blob/array-reverse/assets/array-reverse.jpg)
 
-   * [array_shift] (https://github.com/KaterynaShydlovska/python_data-structures-and-algorithms/blob/master/array_shift/array_shift.py)
+   * [array_shift](https://github.com/KaterynaShydlovska/python_data-structures-and-algorithms/blob/master/array_shift/array_shift.py)
 
    * [assets](https://github.com/KaterynaShydlovska/python_data-structures-and-algorithms/blob/master/assets/array_shift.jpg)
+
