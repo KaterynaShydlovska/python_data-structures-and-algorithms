@@ -1,5 +1,7 @@
 # Challenge Summary
 
+Function with 2 arguments, list and single element, which is adding element to middle of list. 
+Also created test with “Happy Path” and "Edge Cases" where we can check the test was passed or not.
 
 ## Challenge Description
 
