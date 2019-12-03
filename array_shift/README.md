@@ -17,5 +17,6 @@ Created function which takes in an array and the value to be added and returned 
 
 
 ## Solution
-![solution](array-shift.jpg)
-[link](https://github.com/KaterynaShydlovska/python_data-structures-and-algorithms/blob/master/assets/array_shift.jpg)
+  * ![solution](array-shift.jpg)
+
+  * [link](https://github.com/KaterynaShydlovska/python_data-structures-and-algorithms/blob/master/assets/array_shift.jpg)
