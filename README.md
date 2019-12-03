@@ -1,6 +1,6 @@
 # python_data-structures-and-algorithms
 
-### Author: Kteryna Shydlovska
+### Author: Kateryna Shydlovska
 
 [![Build Status](https://www.travis-ci.com/alvian-401-advanced-javascript/data-structures-and-algorithms.svg?branch=master)](https://www.travis-ci.com/alvian-401-advanced-javascript/data-structures-and-algorithms)
 
